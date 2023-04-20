@@ -62,7 +62,7 @@ PORT = 3000
 NODE_ENV = development // En caso de querer trabajar en entorno de desarrollo.
 DB_LOCAL_URI = mongodb://0.0.0.0:27017/nombre_de_tu_base_de_datos
 
-JWT_SECRET = asjhdahjsjnd231bkbi123das
+JWT_SECRET = "ingresa algo secreto"
 JWT_EXPIRES_TIME = 5m
 COOKIE_EXPIRES_TIME = 5
 
